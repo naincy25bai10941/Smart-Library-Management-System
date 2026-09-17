@@ -87,13 +87,13 @@ Command Prompt or Terminal
 Download or clone the repository and open the project folder in VS Code or another Java-supported IDE.
 ### Step 2: Check Java Installation
 
-Open the terminal and check whether Java is installed:java -version
+Open the terminal and check whether Java is installed: java -version
 ### Step 3: Compile the Program
 
-Compile the Java files using:javac *.java
+Compile the Java files using: javac *.java
 ### Step 4: Run the Program
 
-Start the application using:java Main
+Start the application using: java Main
 The main menu will appear in the terminal.
 ## Example Menu
 1. Add Book
