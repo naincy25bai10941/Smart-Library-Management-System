@@ -1,0 +1,6 @@
+101|Java Programming|Herbert Schildt|Programming|true
+102|Data Structure |Mark Allen|Computer Science|true
+103|Operating Systems|Galvin|Computer Science|true
+104|Computer Networks|Andrew Tanenbaum|Networking|true
+105|Database Systems|Korth|Database|true
+106|Wings of Fire|A.P.J. Abdul Kalam|Biography|true

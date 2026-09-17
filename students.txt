@@ -1,0 +1,6 @@
+1|Naincy|naincy@gmail.com
+2|Ananya|ananya@gmail.com
+3|Riya|riya@gmail.com
+4|Priya|priya@gmail.com
+5|Aditi|aditi@gmail.com
+6|Rahul|rahul@gmail.com

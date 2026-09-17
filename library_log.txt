@@ -1,0 +1,20 @@
+Book added: Java Programming
+Student registered: 1
+Book 101 borrowed by student 1
+Book 101 returned by student 1. Fine: Rs.10.0
+Book deleted: 101
+Book added: Java Programming
+Book added: Data Structure 
+Book added: Operating Systems
+Book added: Computer Networks
+Book added: Database Systems
+Student registered: 2
+Student registered: 3
+Student registered: 4
+Student registered: 5
+Book 101 borrowed by student 1
+Book 101 returned by student 1. Fine: Rs.0.0
+Book added: Wings of Fire
+Student registered: 6
+Book 106 borrowed by student 6
+Book 106 returned by student 6. Fine: Rs.0.0
