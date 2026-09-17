@@ -80,7 +80,7 @@ To run the project, the following are required:
 
 Java Development Kit (JDK)
 A Java-supported editor or IDE such as VS Code
-Command Prompt or Terminal##
+Command Prompt or Terminal
 ## How to Run the Project
 ### Step 1: Open the Project
 
